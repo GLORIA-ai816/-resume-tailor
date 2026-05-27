@@ -1,6 +1,5 @@
 st.markdown("<hr>", unsafe_allow_html=True)
 st.caption("您的数据仅用于本次优化，不会存储。")
-
 return style, include_cover_letter, include_interview
 
 
